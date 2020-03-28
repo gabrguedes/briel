@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sim, eu não fui hac"
+title:  "Sim, eu não fui hackeado"
 excerpt: "Uma breve mensagem assinada com PGP para dizer que eu... sou eu. <br/><br/>"
 tags:
   - editorial
@@ -35,3 +35,5 @@ JFdi57ugU153H97tL7J0Iu2cXtSjZKCyvUrinb8qLkOPTHdF2To=
 =UPqL
 -----END PGP SIGNATURE-----
 ```
+
+Você pode checar a autenticidade do que eu escrevo com [minha chave PGP](https://keybase.io/guedesnt).
