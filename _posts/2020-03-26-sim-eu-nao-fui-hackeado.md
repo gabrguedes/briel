@@ -4,6 +4,8 @@ title:  "Sim, eu não fui hackeado"
 excerpt: "Uma breve mensagem assinada com PGP para dizer que eu... sou eu. <br/><br/>"
 tags:
   - editorial
+hero: https://pbs.twimg.com/profile_images/1008665532223180801/V3TVPn_x.jpg
+overlay: black
 
 published: true
 
