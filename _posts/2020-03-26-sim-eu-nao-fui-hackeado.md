@@ -11,7 +11,7 @@ published: true
 
 ---
 
-```plaintext
+~~~
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
@@ -36,6 +36,6 @@ CZtHU/CCXh6mbKDw52K5BpbiwRX2NJsHWnXrZ2Jxa0FoqqKCh9mUgjS9FDO7BqKv
 JFdi57ugU153H97tL7J0Iu2cXtSjZKCyvUrinb8qLkOPTHdF2To=
 =UPqL
 -----END PGP SIGNATURE-----
-```
+~~~
 
 Você pode checar a autenticidade do que eu escrevo com [minha chave PGP](https://keybase.io/guedesnt).
