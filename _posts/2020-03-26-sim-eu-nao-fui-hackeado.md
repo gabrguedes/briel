@@ -11,7 +11,7 @@ published: true
 
 ---
 
-``` none
+```plaintext
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
